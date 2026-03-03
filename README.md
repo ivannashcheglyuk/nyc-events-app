@@ -30,14 +30,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Note: please be sure to 
-
 Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with Bandicam and EZGIF.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -49,7 +46,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2026 Ivanna Shcheglyuk
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
