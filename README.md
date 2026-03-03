@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://github.com/ivannashcheglyuk/nyc-events-app/blob/main/bnyc1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/ivannashcheglyuk/nyc-events-app/blob/main/bnyc2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/ivannashcheglyuk/nyc-events-app/blob/main/Screenshot%202026-03-03%20014643.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 GIF created with Bandicam and EZGIF.
