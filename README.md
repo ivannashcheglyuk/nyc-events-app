@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ivannashcheglyuk/nyc-events-app/blob/main/bnyc1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Bandicam and EZGIF.
 <!-- Recommended tools:
